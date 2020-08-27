@@ -1,9 +1,11 @@
 # Flying Stickman Game
 
 # Stage 3 additions
-*DEMONSTRATION* Videos are available in the "Demonstration" folder, "Demonstration1.mp4" shows most of the stage 3 functionalities, including proper collision, score, lives & stage reset, power-ups, currency collectibles (EXTENSION), shop menu (EXTENSION) and result screen (EXTENSION). "Demonstration2.mp4" demonstrates the backwards compatibility.
+*DEMONSTRATION* 
+Videos are available in the "Demonstration" folder, "Demonstration1.mp4" shows most of the stage 3 functionalities, including proper collision, score, lives & stage reset, power-ups, currency collectibles (EXTENSION), shop menu (EXTENSION) and result screen (EXTENSION). "Demonstration2.mp4" demonstrates the backwards compatibility.
 
-*INSTRUCTIONS* Before running the game in stage 3 mode, please make sure to copy the "stage3config.txt" located in the "config" folder, and the pngs "tinyPowerUp.png", "normalPowerUp.png", "largePowerUp.png", "giantPowerUp.png" and "coin.png" within the "img" folder to the BUILD FOLDER.
+*INSTRUCTIONS* 
+Before running the game in stage 3 mode, please make sure to copy the "stage3config.txt" located in the "config" folder, and the pngs "tinyPowerUp.png", "normalPowerUp.png", "largePowerUp.png", "giantPowerUp.png" and "coin.png" within the "img" folder to the BUILD FOLDER.
 
 Stage 3 saw a plethora of changes to the game, the following list of classes have been added to make these changes possible:
 
