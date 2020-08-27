@@ -1,0 +1,7 @@
+Lives:3
+baseObstaclesPerStage:3
+stageClearRequirementIncrementRate:2
+powerUpWidth:50
+powerUpHeight:70
+scoreWorth:100,500,100,-50
+currency:1
